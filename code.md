@@ -1,3 +1,4 @@
+```
 # gary-the-dancing-machine
 #!/usr/bin/env pybricks-micropython
 
@@ -20,3 +21,4 @@ while True:
     else:
         motor_a.stop(Stop.BRAKE)
         motor_b.stop(Stop.BRAKE)
+```
