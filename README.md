@@ -19,3 +19,4 @@ When sound is detected / button is pressed and held, head and arms spin at the s
 DESIGN ITERATIONS
 V1: Gary basic model(see gary-the-dancing-machine.png), motors activated with touch sensor
 V2: V1 now attatched pernanently on face of brick
+V3: Now plays music
